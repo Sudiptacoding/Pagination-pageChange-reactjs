@@ -1,0 +1,10 @@
+.item{
+    width: 280px;
+    height: 129px;
+    border: 1px solid tomato;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
